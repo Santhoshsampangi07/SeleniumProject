@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Program01 {
 
 	public static void main(String[] args) {
-		//Dropdown
+		//Dropdown :
 		// Another form to find X-path - Syntax : //tagname[text()='text-value']
 		// To select multiple languages 
 		WebDriver driver=new ChromeDriver();

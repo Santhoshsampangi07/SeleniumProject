@@ -10,7 +10,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Program03 {
-	//topic :- screen shots of every steps 
+	
+	//topic :- To take screen shots of every steps 
 	static WebDriver driver;
 	public static void main(String[] args)throws IOException {
 		driver=new ChromeDriver();
